@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panel | Agua en Vino</title>
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .panel { max-width: 820px; margin: 0 auto; padding: 2rem 1.2rem 4rem; }
+    .panel h1 { font-family: var(--serif); }
+    .panel label { display: block; font-size: 0.85rem; font-weight: 600; margin: 0.8rem 0 0.25rem; }
+    .panel input, .panel textarea {
+      width: 100%; padding: 0.55rem 0.7rem; font: inherit;
+      border: 1px solid var(--line); border-radius: 8px; background: #fff;
+    }
+    .panel textarea { min-height: 90px; }
+    .item-box { border: 1px solid var(--line); border-radius: 14px; padding: 1rem; margin: 1rem 0; background: var(--cream); }
+    .row { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.8rem; }
+    .warn { background: #f8ead4; padding: 0.9rem 1rem; border-radius: 10px; }
+  </style>
+</head>
+<body data-root="">
+  <header class="site-header" data-header></header>
+  <main class="panel" id="gate">
+    <p class="kicker">Administración</p>
+    <h1>Entra con tu clave</h1>
+    <p>Esta zona no está en el menú. Solo quien tenga la clave ve el editor.</p>
+    <label>Clave</label>
+    <input id="clave" type="password" autocomplete="current-password">
+    <p class="row"><button class="btn btn-wine" type="button" id="entrar">Entrar</button></p>
+    <p id="gate-err" class="muted"></p>
+  </main>
+  <main class="panel" id="editor" hidden>
+    <p class="kicker">Solo tú</p>
+    <h1>Añadir historias y productos</h1>
+    <p class="warn">Esta página no publica sola (GitHub Pages no puede guardar archivos). Editas aquí, pulsas <strong>Descargar config.js</strong> y sustituyes el archivo <code>js/config.js</code> de la carpeta del sitio. Luego subes ese archivo a GitHub.</p>
+
+    <h2>Redes y Amazon</h2>
+    <label>Tag de Amazon (ya atribuye comisión)</label>
+    <input id="amazonTag">
+    <label>Tienda Amazon (www.amazon.com o www.amazon.es)</label>
+    <input id="amazonHost">
+    <label>YouTube oficial</label>
+    <input id="youtube">
+    <label>TikTok</label>
+    <input id="tiktok">
+    <label>Instagram</label>
+    <input id="instagram">
+
+    <h2>Historias</h2>
+    <div id="stories"></div>
+    <p class="row"><button class="btn btn-line" type="button" id="add-story">+ Nueva historia</button></p>
+
+    <h2>Productos</h2>
+    <p>Pega la URL completa que te da Amazon y el panel saca el ASIN. El sitio genera <code>/dp/ASIN/ref=nosim?tag=aguenvino07-20</code> (formato con bono de enlace directo). La búsqueda se usa solo si no hay producto concreto.</p>
+    <div id="resources"></div>
+    <p class="row"><button class="btn btn-line" type="button" id="add-res">+ Nuevo producto</button></p>
+
+    <p class="row">
+      <button class="btn btn-wine" type="button" id="save">Descargar config.js</button>
+      <a class="btn btn-line" href="index.html">Ver el sitio</a>
+      <button class="btn btn-line" type="button" id="salir">Cerrar sesión</button>
+    </p>
+  </main>
+  <footer class="site-footer" data-footer></footer>
+  <script src="js/config.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/panel.js"></script>
+</body>
+</html>
