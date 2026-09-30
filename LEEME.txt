@@ -1,0 +1,3 @@
+Descomprime DENTRO de C:\\xampp\\htdocs\\aguaenvino
+index.html debe verse en esa carpeta
+Abre http://localhost/aguaenvino/ y pulsa Ctrl+F5

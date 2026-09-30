@@ -1,0 +1,1 @@
+import{c as e}from"./useSelector-BcTnCC3_.js";import{i as t}from"./more-C7V9yN0O.js";var n=e(),r=()=>(0,n.jsx)(t,{id:`iglesias`});export{r as component};

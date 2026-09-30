@@ -1,0 +1,12 @@
+Agua en Vino — sitio para GitHub Pages
+
+1. Sube todo el contenido de esta carpeta a la raíz del repositorio que ya apunta a aguaenvino.com.
+2. Si ese repositorio ya tiene un archivo CNAME, conserva el que ya funcionaba.
+3. En GitHub: Settings → Pages → la rama main y la carpeta raíz (o /docs, si lo tienes así).
+4. El panel sigue en https://aguaenvino.com/panel
+   Clave: primer-milagro
+5. Guardar deja el cambio en tu navegador. Para que lo vea todo el mundo, pulsa Publicar ahora
+   (con un token de GitHub) o reemplaza el archivo contenido.json en el repositorio.
+6. La pasarela que cobra sola vuelve cuando haya hosting. Mientras tanto usa PayPal.me, Airtm,
+   USDT, Pago Móvil o un enlace de Payhip o Gumroad.
+7. Puedes borrar este archivo COMO-SUBIR.txt después de leerlo.

@@ -1,0 +1,653 @@
+{
+  "version": "1plus",
+  "stories": [
+    {
+      "id": "bodas-de-cana",
+      "ref": "Juan 2",
+      "title": "Cuando el agua no alcanza",
+      "summary": "Una fiesta a punto de apagarse y un milagro que empieza en lo cotidiano.",
+      "image": "img/historias/cana.webp",
+      "alt": "Copa de vino en una mesa",
+      "paragraphs": [
+        "Se acaba el vino en una boda. No es un drama teológico en el aire: es vergüenza social, mesas a medias, una madre que se da cuenta antes que los novios. María no da un discurso. Dice una frase corta a los sirvientes: haced lo que él os dijere.",
+        "Jesús pide tinajas de purificación —agua para ritos, no para brindar— y las manda llenar. El milagro no niega lo ordinario: lo usa. El agua ya estaba. Faltaba la obediencia pequeña de llenar hasta arriba.",
+        "Hay temporadas así en una casa. Se acaba la alegría, no la fe en abstracto. Lo que queda es agua: rutina, cansancio, lo correcto sin sabor. Caná no promete que todo se vuelva fiesta. Promete que lo cotidiano puede ser tocado."
+      ],
+      "ctaText": "Para leer Juan 2 con notas y no perder el hilo.",
+      "ctaResource": "biblia",
+      "active": true
+    },
+    {
+      "id": "mujer-samaritana",
+      "ref": "Juan 4",
+      "title": "El mediodía en el pozo",
+      "summary": "Sed, vergüenza y una conversación que cambia el pueblo entero.",
+      "image": "img/historias/samaritana.webp",
+      "alt": "Pozo de agua al atardecer",
+      "paragraphs": [
+        "Ella va por agua cuando el sol pega y el pueblo no mira. Jesús pide de beber. Rompe dos muros de un trago y no empieza por su pecado. Empieza por la sed.",
+        "Cuando la verdad de su vida sale a la luz, no la aplasta: la nombra. Y ella deja el cántaro para ir a decirle al pueblo: venid, ved.",
+        "Muchas personas llegan a la fe por vergüenza, no por curiosidad académica. Este relato pide que no huyas del mediodía."
+      ],
+      "ctaText": "Un cuaderno para lo que no se publica.",
+      "ctaResource": "diario-oracion",
+      "active": true
+    },
+    {
+      "id": "salmo-23",
+      "ref": "Salmo 23",
+      "title": "Todavía hay pastos",
+      "summary": "Un texto viejo para noches nuevas: miedo, mesa y descanso.",
+      "image": "img/historias/salmo23.webp",
+      "alt": "Valle verde al atardecer",
+      "paragraphs": [
+        "El Señor es mi pastor. Lo hemos oído en funerales y en bordados. Vuelve a leerlo como alguien que no duerme.",
+        "El valle de sombra no se niega. Se atraviesa. La fe no siempre saca a los enemigos de la habitación. A veces pone plato en medio.",
+        "Si la noche se alarga, el Salmo se puede oír. Un audio sostiene el cuerpo mientras el texto hace su trabajo."
+      ],
+      "ctaText": "Para la noche: salmos que no se cortan a la mitad.",
+      "ctaResource": "audio",
+      "active": true
+    }
+  ],
+  "products": [
+    {
+      "id": "biblia",
+      "cat": "libreria",
+      "title": "Regala una Biblia",
+      "need": "Un regalo que no se gasta en una tarde",
+      "text": "Sorprende a alguien con un regalo eterno: una edición para leer, subrayar y dejar en la mesa. No es un objeto de escaparate; es semilla.",
+      "cta": "Elegir una Biblia para regalar",
+      "asin": "",
+      "search": "biblia de estudio espanol",
+      "image": "img/productos/biblia.webp",
+      "alt": "Biblia abierta",
+      "featured": true,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "forro",
+      "cat": "regalos",
+      "title": "La Palabra también viaja en el bolsillo",
+      "need": "El teléfono ya lo llevas encima todo el día",
+      "text": "Un forro con versículo no predica a gritos: acompaña cada vez que desbloqueas la pantalla. Para quien quiere fe a la vista, sin discurso.",
+      "cta": "Ver este forro",
+      "asin": "B0FVDH3GSD",
+      "search": "",
+      "image": "img/productos/forro.webp",
+      "alt": "Teléfono sobre mesa",
+      "featured": true,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "diario-oracion",
+      "cat": "libreria",
+      "title": "Un cuaderno para lo que no se publica",
+      "need": "Orar se olvida si no hay dónde dejarlo",
+      "text": "Tres líneas al día cambian el tono de una casa. Un sitio privado para lo que pides y lo que agradeces.",
+      "cta": "Ver diarios de oración",
+      "asin": "",
+      "search": "diario de oracion cristiano",
+      "image": "img/productos/diario.webp",
+      "alt": "Cuaderno y pluma",
+      "featured": true,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "audio",
+      "cat": "paz",
+      "title": "Salmos sin interrupción",
+      "need": "Dormir o cocinar con la Palabra de fondo",
+      "text": "Auriculares o un altavoz pequeño para que el canal no se quede solo en el teléfono de otra habitación.",
+      "cta": "Ver audio para la casa",
+      "asin": "",
+      "search": "auriculares bluetooth",
+      "image": "img/productos/audio.webp",
+      "alt": "Auriculares",
+      "featured": true,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "wwjd-cruz",
+      "cat": "pulseras",
+      "title": "Pulseras WWJD y cruz para hombre",
+      "need": "Un recordatorio en la muñeca",
+      "text": "Pulsera de cruz y WWJD para el día entre semana.",
+      "cta": "Ver en Amazon",
+      "asin": "B0DJLKVWN9",
+      "search": "pulseras WWJD pulsera de cruz para hombre",
+      "image": "img/productos/wwjd-cruz.webp",
+      "alt": "Pulsera de cruz",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pulsera-hombre",
+      "cat": "pulseras",
+      "title": "Pulsera cristiana para hombre",
+      "need": "Fe que se lleva puesta",
+      "text": "Cuero y cruz. Un detalle sencillo para él.",
+      "cta": "Ver pulsera",
+      "asin": "B0G8J1KFXC",
+      "search": "pulsera cristiana para hombre",
+      "image": "img/productos/pulsera-hombre.webp",
+      "alt": "Pulsera de hombre",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pulseras-mujer",
+      "cat": "pulseras",
+      "title": "Pulseras de cuentas cristianas para mujeres",
+      "need": "Un regalo que se usa",
+      "text": "Cuentas y cruz. Para ella o para la mesa de regalos.",
+      "cta": "Ver pulseras",
+      "asin": "B0F3CMV6RC",
+      "search": "pulseras de cuentas cristianas para mujeres",
+      "image": "img/productos/pulseras-mujer.webp",
+      "alt": "Pulseras de cuentas",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "biblia-fucsia",
+      "cat": "libreria",
+      "title": "Biblia mujer letra grande, símil piel fucsia",
+      "need": "Para leer sin forzar la vista",
+      "text": "Letra grande y tapa fucsia. Un regalo que se queda en la mesa.",
+      "cta": "Ver Biblia",
+      "asin": "1644733854",
+      "search": "Biblia mujer letra grande simil piel fucsia",
+      "image": "img/productos/biblia-fucsia.webp",
+      "alt": "Biblia fucsia",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "biblia-corazones",
+      "cat": "libreria",
+      "title": "Biblia Luz en mi camino, corazones",
+      "need": "Color para la Palabra",
+      "text": "Edición multicolor de corazones. Para regalar o para la casa.",
+      "cta": "Ver Biblia",
+      "asin": "1535943580",
+      "search": "Biblia Luz en mi camino corazones multicolor",
+      "image": "img/productos/biblia-corazones.webp",
+      "alt": "Biblia de corazones",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "mapa-oracion",
+      "cat": "libreria",
+      "title": "Mapa de oración para mujeres",
+      "need": "Un diario para lo que se ora",
+      "text": "Diario creativo para anotar promesas y pedidos.",
+      "cta": "Ver diario",
+      "asin": "1643523406",
+      "search": "Mapa de Oracion Para Mujeres diario creativo",
+      "image": "img/productos/diario-oracion.webp",
+      "alt": "Diario de oración",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pulsera-audio",
+      "cat": "pulseras",
+      "title": "Pulsera de audio, WWJD y Biblia de audio",
+      "need": "La Palabra en la muñeca",
+      "text": "Para llevar un versículo o un audio corto sin tener el teléfono en la mano.",
+      "cta": "Ver pulsera",
+      "asin": "B0CQKNL1JB",
+      "search": "pulsera de audio portatil WWJD Biblia de audio",
+      "image": "img/productos/pulsera-audio.webp",
+      "alt": "Pulsera de audio",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pulsera-rose",
+      "cat": "pulseras",
+      "title": "Rose pulseras Jesús",
+      "need": "Silicona de todos los días",
+      "text": "Pulsera de silicona con el pez y la cruz.",
+      "cta": "Ver pulsera",
+      "asin": "B09P299JPB",
+      "search": "Rose pulseras Jesus silicona",
+      "image": "img/productos/pulsera-rose.webp",
+      "alt": "Pulsera de silicona",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pulsera-verso",
+      "cat": "pulseras",
+      "title": "Pulsera grabada con versículo",
+      "need": "Fe a la vista",
+      "text": "Grabado inspirador. Un regalo pequeño que se nota.",
+      "cta": "Ver pulsera",
+      "asin": "B0DMN4SKSP",
+      "search": "pulsera grabada versiculo biblico fe cristiana",
+      "image": "img/productos/pulsera-verso.webp",
+      "alt": "Pulsera grabada",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "gorra",
+      "cat": "regalos",
+      "title": "Gorra para cristianos",
+      "need": "Regalo que se usa",
+      "text": "Para el camino y el sol.",
+      "cta": "Ver gorra",
+      "asin": "B0FXGVX353",
+      "search": "gorra cristiana regalo",
+      "image": "img/productos/gorra.webp",
+      "alt": "Gorra",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "vino",
+      "cat": "pulseras",
+      "title": "Pulsera Yeshua (enlace En vino tinto)",
+      "need": "El corto de Amazon abre esta pulsera",
+      "text": "El link.amazon que pegaste como En vino tinto abre una pulsera cristiana ajustable, no una botella. El botón lleva a esa ficha.",
+      "cta": "Ver en Amazon",
+      "asin": "B0DG8V41NX",
+      "search": "pulsera Yeshua cristiana ajustable",
+      "image": "img/productos/pulsera-hombre.webp",
+      "alt": "Pulsera",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "deco-mujer",
+      "cat": "regalos",
+      "title": "Regalos cristianos y decoración del hogar",
+      "need": "La casa también predica",
+      "text": "Detalles para ella y para la pared que se ve todos los días.",
+      "cta": "Ver regalos",
+      "asin": "B0H38TXZHV",
+      "search": "regalos cristianos para mujer decoracion del hogar",
+      "image": "img/productos/deco-mujer.webp",
+      "alt": "Decoración",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "camiseta",
+      "cat": "regalos",
+      "title": "Camiseta unisex",
+      "need": "Fe que se lleva puesta",
+      "text": "Manga corta, estampado discreto.",
+      "cta": "Ver camiseta",
+      "asin": "B0BZYVPB92",
+      "search": "camiseta unisex cristiana manga corta",
+      "image": "img/productos/camiseta.webp",
+      "alt": "Camiseta",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "piano",
+      "cat": "instrumentos",
+      "title": "Piano para principiantes",
+      "need": "Que la casa suene",
+      "text": "Para empezar a hacer canción con las manos.",
+      "cta": "Ver piano",
+      "asin": "B01AJJIQQQ",
+      "search": "piano principiante",
+      "image": "img/productos/piano.webp",
+      "alt": "Piano",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "trompeta",
+      "cat": "instrumentos",
+      "title": "Trompeta en Si bemol",
+      "need": "Aliento y alabanza",
+      "text": "Trompeta estándar para quien ya quiere soplar.",
+      "cta": "Ver trompeta",
+      "asin": "B0B8H9VPK4",
+      "search": "trompeta estandar si bemol",
+      "image": "img/productos/trompeta.webp",
+      "alt": "Trompeta",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "bateria",
+      "cat": "instrumentos",
+      "title": "Batería de 5 piezas",
+      "need": "El pulso de la banda",
+      "text": "Juego de batería con bombo de 22 pulgadas, estilo Rydeen.",
+      "cta": "Ver batería",
+      "asin": "B0CS6WPY96",
+      "search": "Yamaha Rydeen bateria 5 piezas bombo 22",
+      "image": "img/productos/bateria.webp",
+      "alt": "Batería",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "caja-madera",
+      "cat": "instrumentos",
+      "title": "Caja de madera",
+      "need": "El golpe limpio",
+      "text": "Caja de batería con casco de madera.",
+      "cta": "Ver caja",
+      "asin": "B0CS6WPY96",
+      "search": "bateria caja de madera",
+      "image": "img/productos/caja-madera.webp",
+      "alt": "Caja de batería",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "funda-iphone",
+      "cat": "regalos",
+      "title": "Funda para iPhone",
+      "need": "La Palabra en el bolsillo",
+      "text": "Forro con cruz. El teléfono ya sale todos los días.",
+      "cta": "Ver funda",
+      "asin": "B0GV4QLRXX",
+      "search": "funda forro iphone cristiano",
+      "image": "img/productos/forro.webp",
+      "alt": "Funda de teléfono",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "camisa-jesus",
+      "cat": "regalos",
+      "title": "Camisas cristianas",
+      "need": "Para el culto y el domingo",
+      "text": "Camisa con un detalle de cruz. Sin gritar.",
+      "cta": "Ver camisa",
+      "asin": "B0DZ6VXB8G",
+      "search": "camisas cristianas de Jesus",
+      "image": "img/productos/camisa-jesus.webp",
+      "alt": "Camisa",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    },
+    {
+      "id": "pack-fundas",
+      "cat": "regalos",
+      "title": "Paquete de fundas de teléfono",
+      "need": "Para regalar en grupo",
+      "text": "Varias fundas en un solo paquete.",
+      "cta": "Ver paquete",
+      "asin": "B0FVDH3GSD",
+      "search": "paquete fundas telefono cristiano",
+      "image": "img/productos/pack-fundas.webp",
+      "alt": "Paquete de fundas",
+      "featured": false,
+      "active": true,
+      "store": "amazon",
+      "url": ""
+    }
+  ],
+  "articles": [
+    {
+      "id": "descanso-y-abundancia",
+      "title": "El descanso que no empieza en el bolsillo",
+      "summary": "Abundancia, Salmos de noche y un vaso de agua. Un refugio en el ruido.",
+      "image": "img/logo-abundancia.webp",
+      "youtube": "BAdSyt9KWls",
+      "channel": "https://www.youtube.com/@aguaenvino_abundancia",
+      "products": [
+        "antifaz"
+      ],
+      "paragraphs": [
+        "La verdadera abundancia no comienza en el bolsillo. Empieza cuando se renueva la mente y el espíritu. El ruido del día pide un refugio, no otra lista de metas.",
+        "En Mi Abundancia Viene de Dios tejemos espacios de meditación y Salmos de acompañamiento nocturno. No es un truco para dormir: es un modo de dejar que la Palabra cierre la jornada.",
+        "El orden que usamos es simple. Primero orar. Luego meditar un salmo o un versículo. Al final, un vaso de agua y —si la luz molesta, como a tantos— oscuridad de verdad. Entonces el cuerpo entiende que la paz de Dios también se hospeda en el nervio y en el párpado.",
+        "Una agenda de gratitud y una Biblia de estudio ayudan a registrar la promesa, no solo a sentirla. Lo que se escribe se puede releer cuando el bolsillo otra vez grite.",
+        "Los audios extendidos están en el canal. Pon uno esta noche. Si el descanso llega, no fue el gadget: fue la secuencia. El antifaz solo quita lo que sobra."
+      ],
+      "active": true
+    }
+  ],
+  "offers": [
+    {
+      "id": "iglesias",
+      "kicker": "Webs",
+      "nav": "Webs iglesia o negocio",
+      "title": "Webs para tu iglesia o tu negocio",
+      "summary": "Presencia clara en internet: horario, servicios, catálogo y un contacto que sí llega.",
+      "cta": "Ver propuesta",
+      "paragraphs": [
+        "Hacemos sitios limpios para congregaciones y también para negocios que quieren verse serios sin ruido de agencia.",
+        "Se entiende en el celular. El nombre, cómo llegar o cómo comprar no se esconden."
+      ],
+      "points": [
+        {
+          "kicker": "Clara",
+          "title": "Diseño limpio",
+          "text": "Se lee de lejos. El nombre, el horario y cómo llegar o comprar no se esconden.",
+          "image": "img/servicios/web.webp"
+        },
+        {
+          "kicker": "En el bolsillo",
+          "title": "Adaptado al celular",
+          "text": "La mayoría entra desde el teléfono. El menú y los botones funcionan con el pulgar.",
+          "image": "img/servicios/celular.webp"
+        },
+        {
+          "kicker": "Iglesia o negocio",
+          "title": "Un sitio a tu medida",
+          "text": "Cultos y transmisiones, o servicios y catálogo. La misma claridad, distinto acento.",
+          "image": "img/servicios/web.webp"
+        },
+        {
+          "kicker": "En vivo",
+          "title": "Transmisiones y avisos",
+          "text": "Un lugar fijo para el culto, el live o el aviso de la semana. No un enlace perdido.",
+          "image": "img/servicios/celular.webp"
+        }
+      ],
+      "active": true,
+      "image": "img/servicios/web.webp"
+    },
+    {
+      "id": "digital",
+      "kicker": "Digital",
+      "nav": "Productos digitales",
+      "title": "Canciones, PDF y logos",
+      "summary": "Archivos listos para vender o regalar. Aquí también está cómo pagar: PayPal, Airtm y USDT.",
+      "cta": "Ver digital",
+      "paragraphs": [
+        "Cuando la casa tiene una canción, un PDF o un logo listo, aparece aquí.",
+        "El pago de esos archivos es PayPal, Airtm o USDT en Polygon. No usamos Payhip."
+      ],
+      "points": [],
+      "active": true,
+      "image": "img/servicios/digital.webp"
+    },
+    {
+      "id": "descargas",
+      "kicker": "Gratis",
+      "nav": "Descargas gratis",
+      "title": "Descargas para el camino",
+      "summary": "El Padre Nuestro en reggae, para llevarlo sin pasar por caja.",
+      "cta": "Descargar",
+      "paragraphs": [
+        "La canción del Padre Nuestro, versión reggae, está aquí para descargarla. El video vive en YouTube."
+      ],
+      "points": [],
+      "active": true,
+      "image": "img/servicios/descargas.webp"
+    },
+    {
+      "id": "creativo",
+      "kicker": "Imagen",
+      "nav": "Logos y animación",
+      "title": "Logos, Blender y animación con IA",
+      "summary": "Identidad visual y movimiento para la casa, la iglesia o el negocio.",
+      "cta": "Pedir diseño",
+      "paragraphs": [
+        "Diseñamos logos, piezas en Blender y animaciones con IA. El estilo sigue la casa: claro, cálido, sin gritar."
+      ],
+      "points": [
+        {
+          "kicker": "Marca",
+          "title": "Diseño de logos",
+          "text": "Un sello que se reconoce en el celular y en la pared.",
+          "image": "img/servicios/logo.webp"
+        },
+        {
+          "kicker": "3D",
+          "title": "Blender",
+          "text": "Modelos y escenas para un video, una portada o una idea que necesita cuerpo.",
+          "image": "img/servicios/animacion.webp"
+        },
+        {
+          "kicker": "Movimiento",
+          "title": "Animaciones con IA",
+          "text": "Clips cortos para YouTube, el sitio o el anuncio de la semana.",
+          "image": "img/servicios/animacion.webp"
+        }
+      ],
+      "active": true,
+      "image": "img/servicios/logo.webp"
+    },
+    {
+      "id": "programas",
+      "kicker": "Equipos",
+      "nav": "Router y computadores",
+      "title": "Router, PCs y programas",
+      "summary": "Dejamos la red y el equipo listos: router, mantenimiento e instalación.",
+      "cta": "Pedir visita",
+      "paragraphs": [
+        "Configuramos e instalamos el router, damos mantenimiento al computador e instalamos los programas que la iglesia, la casa o el negocio necesita."
+      ],
+      "points": [
+        {
+          "kicker": "Red",
+          "title": "Router",
+          "text": "Instalación y configuración para que el culto o el negocio no se caiga a media reunión.",
+          "image": "img/servicios/equipo.webp"
+        },
+        {
+          "kicker": "Equipo",
+          "title": "Mantenimiento de PCs",
+          "text": "Limpieza, revisión y dejar el computador trabajando sin misterio.",
+          "image": "img/servicios/equipo.webp"
+        },
+        {
+          "kicker": "Software",
+          "title": "Instalación de programas",
+          "text": "El programa abre, se explica el primer uso y no queda a medias.",
+          "image": "img/servicios/web.webp"
+        }
+      ],
+      "active": true,
+      "image": "img/servicios/equipo.webp"
+    }
+  ],
+  "digitals": [],
+  "payments": {
+    "paypal": "",
+    "airtm": "https://airtm.me/rafael71db2125",
+    "usdt": "0x05f899d250286d58cf21dd59e5f39fd1350f7262",
+    "usdtNetwork": "USDT en Polygon PoS. Confirma Polygon antes de enviar.",
+    "payhip": "",
+    "banco": "",
+    "telefono": "",
+    "rif": "",
+    "nota": "Después del pago escríbenos a WhatsApp o a aguaenvino9@gmail.com con el comprobante.",
+    "paypalClientId": "",
+    "paypalLive": false,
+    "paypalReady": false
+  },
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "active": true,
+      "tag": "aguenvino07-20",
+      "itemUrl": "https://www.amazon.com/dp/{id}/ref=nosim?tag={tag}&linkCode=ll1&language=es_US",
+      "searchUrl": "https://www.amazon.com/s?k={q}&tag={tag}&linkCode=ll2&language=es_US&ref=as_li_ss_tl",
+      "cta": "Ver en Amazon"
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "active": true,
+      "tag": "",
+      "itemUrl": "https://www.ebay.com/itm/{id}",
+      "searchUrl": "https://www.ebay.com/sch/i.html?_nkw={q}",
+      "cta": "Ver en eBay"
+    },
+    {
+      "id": "aliexpress",
+      "name": "AliExpress",
+      "active": true,
+      "tag": "",
+      "itemUrl": "https://www.aliexpress.com/item/{id}.html",
+      "searchUrl": "https://www.aliexpress.com/wholesale?SearchText={q}",
+      "cta": "Ver en AliExpress"
+    }
+  ],
+  "ads": [
+    {
+      "id": "ejemplo-inicio",
+      "slot": "inicio-medio",
+      "title": "Tu anuncio aquí",
+      "sponsor": "",
+      "image": "",
+      "url": "",
+      "active": false,
+      "note": "Ejemplo. Inactivo hasta que haya un anunciante."
+    }
+  ]
+}
