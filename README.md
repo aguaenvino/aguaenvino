@@ -1,16 +1,23 @@
-## Hi there 👋
+# Agua en Vino — Donde la Biblia se hace Canción
 
-<!--
-**aguaenvino/aguaenvino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+El primer milagro que Jesús hizo fue convertir agua en vino en las Bodas de Caná.
 
-Here are some ideas to get you started:
+Este sitio es la casa donde:
+- La Biblia cobra vida en **historias cortas y reflexiones**  
+- La fe se siente con **música cristiana y reggae gospel** en español  
+- Crecemos juntos en **Historias con Valor** (crecimiento espiritual y superación personal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Lo que ofrece
+- Relatos bíblicos para reflexionar (Juan 2, Salmo 23, etc.)
+- Reggae cristiano y alabanza con fe
+- Tienda de productos digitales y regalos cristianos
+- Servicios tecnológicos para iglesias y negocios (páginas web, logos, etc.)
+- Crecimiento espiritual y superación personal
+
+### 📍 Enlace
+**Sitio web oficial**: https://aguaenvino.com
+
+**YouTube**: Busca “Agua en Vino” (canal oficial)
+
+**Hecho con ❤️ por Rafa**  
+2026 — Agua en Vino
